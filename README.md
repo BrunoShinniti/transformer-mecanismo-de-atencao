@@ -1,2 +1,3 @@
 # transformer-mecanismo-de-atencao
-Fundamento do mecanismo de atenção utilizada na arquitetura Transformer.
+
+Estudo de fundamentos do mecanismo de atenção utilizada na arquitetura Transformer.
